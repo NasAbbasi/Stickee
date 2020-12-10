@@ -1,0 +1,2 @@
+# Stickee
+Stickee Developer challenge
